@@ -1,2 +1,1 @@
-Buat branch baru sesuai nama Anda.
-Isi branch tersebut dengan file namaAnda.txt dan tuliskan nama lengkap, tempat tinggal dan hobi.
+Soal praktek git
